@@ -1,14 +1,14 @@
 {
-  "name": "simple-data-pipe-connector-template",
+  "name": "simple-data-pipe-connector-test",
   "version": "0.1.0",
-  "description": "Basic connector template for Simple Data Pipe.",
+  "description": "MW Test connector.",
   "main": "./lib",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ibm-cds-labs/simple-data-pipe-connector-template"
+    "url": "https://github.com/ibm-cds-labs/simple-data-pipe-connector-test"
   },
   "simple_data_pipe": {
-    "name": "template",
+    "name": "test",
     "service_dependencies": [
     ]
   },
@@ -25,11 +25,11 @@
     "simple-data-pipe-sdk": "^0.2.2"
   },
   "author": {
-    "name": "ptitzler@us.ibm.com"
+    "name": "markwats@us.ibm.com"
   },
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/ibm-cds-labs/simple-data-pipe-connector-template/issues"
+    "url": "https://github.com/markwatsonatx/simple-data-pipe-connector-test/issues"
   },
   "readmeFilename": "README.md"
 }
