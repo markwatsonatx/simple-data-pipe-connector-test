@@ -1,7 +1,7 @@
 {
   "name": "simple-data-pipe-connector-test",
   "version": "0.1.0",
-  "description": "MW Test connector.",
+  "description": "My test connector.",
   "main": "./lib",
   "repository": {
     "type": "git",
