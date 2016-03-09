@@ -1,14 +1,14 @@
 {
-  "name": "simple-data-pipe-connector-test",
+  "name": "simple-data-pipe-connector-twitter",
   "version": "0.1.0",
-  "description": "My test connector.",
+  "description": "Twitter connector.",
   "main": "./lib",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ibm-cds-labs/simple-data-pipe-connector-test"
+    "url": "https://github.com/ibm-cds-labs/simple-data-pipe-connector-twitter"
   },
   "simple_data_pipe": {
-    "name": "test",
+    "name": "twitter",
     "service_dependencies": [
     ]
   },
@@ -16,7 +16,8 @@
     "simple data pipe",
     "connector",
     "Cloudant",
-    "data movement"
+    "data movement",
+    "Twitter"
   ],
   "dependencies": {
     "fs": "0.0.2",
@@ -30,7 +31,7 @@
   },
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/markwatsonatx/simple-data-pipe-connector-test/issues"
+    "url": "https://github.com/markwatsonatx/simple-data-pipe-connector-twitter/issues"
   },
   "readmeFilename": "README.md"
 }
